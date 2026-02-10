@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ai-agent-chat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e080c6fc2ffcad69eb3f13acaf788d97d714c8da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76318c96f31b179ac5de25f67bb11a9843327131")]
 [assembly: System.Reflection.AssemblyProductAttribute("ai-agent-chat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ai-agent-chat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
